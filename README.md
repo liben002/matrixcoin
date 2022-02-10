@@ -35,3 +35,5 @@ Collaborators
  - Tristan Lee
  - Robert Bona
  - Yida Wang (August) 
+ - Pranet Sharma
+ - Rishav De
