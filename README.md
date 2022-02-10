@@ -33,6 +33,7 @@ Collaborators
 
  - BUHPC club
  - Carlton Knox
+ - Petter Stahle
  - Tristan Lee
  - Robert Bona
  - Yida Wang (August) 
@@ -40,4 +41,6 @@ Collaborators
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
+ - Kelly Chen
+ - Shamir Legaspi
  - Nyah Madison
