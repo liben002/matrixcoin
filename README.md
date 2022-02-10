@@ -39,4 +39,3 @@ Collaborators
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
- - Jincheng Zhang
