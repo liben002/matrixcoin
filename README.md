@@ -29,4 +29,10 @@ Getting Started for Club Members
  - Assign pre-tickets
 
 Collaborators
+
+
+
+
+
+
  - Nyah Madison
