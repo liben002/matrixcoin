@@ -32,3 +32,4 @@ Getting Started for Club Members
 Collaborators
  - BUHPC club
  - Carlton Knox
+ - Tristan Lee
