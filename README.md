@@ -27,12 +27,17 @@ Getting Started for Club Members
  - Add collaborator list
  - Explain tickets
  - Assign pre-tickets
+ - Split into building, src code, and hash function
 
 Collaborators
 
-
-
-
-
-
+ - BUHPC club
+ - Carlton Knox
+ - Tristan Lee
+ - Robert Bona
+ - Yida Wang (August) 
+ - Pranet Sharma
+ - Rishav De
+ - Mete Gumusayak 
+ - Gordon Ng
  - Nyah Madison
