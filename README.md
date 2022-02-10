@@ -29,4 +29,4 @@ Getting Started for Club Members
  - Assign pre-tickets
 
 Collaborators
- - Example
+ - Petter Stahle
