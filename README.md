@@ -32,5 +32,5 @@ Getting Started for Club Members
 Collaborators
  - BUHPC club
  - Carlton Knox
- - Petter Stahle
  - Tristan Lee
+ - Robert Bona
