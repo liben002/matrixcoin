@@ -36,6 +36,7 @@ Collaborators
  - Petter Stahle
  - Tristan Lee
  - Robert Bona
+ - Jincheng Zhang
  - Yida Wang (August) 
  - Pranet Sharma
  - Rishav De
