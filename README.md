@@ -30,8 +30,10 @@ Getting Started for Club Members
  - Split into building, src code, and hash function
 
 Collaborators
+
  - BUHPC club
  - Carlton Knox
+ - Petter Stahle
  - Tristan Lee
  - Robert Bona
  - Yida Wang (August) 
@@ -40,3 +42,4 @@ Collaborators
  - Mete Gumusayak 
  - Gordon Ng
  - Kelly Chen
+ - Shamir Legaspi
