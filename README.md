@@ -29,4 +29,7 @@ Getting Started for Club Members
  - Assign pre-tickets
 
 Collaborators
+ - BUHPC club
+ - Carlton Knox
+ - Tristan Lee
  - Jincheng Zhang
