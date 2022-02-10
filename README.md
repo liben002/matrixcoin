@@ -27,6 +27,9 @@ Getting Started for Club Members
  - Add collaborator list
  - Explain tickets
  - Assign pre-tickets
+ - Split into building, src code, and hash function
 
 Collaborators
+ - BUHPC club
+ - Carlton Knox
  - Petter Stahle
