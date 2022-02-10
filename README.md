@@ -35,3 +35,4 @@ Collaborators
  - Tristan Lee
  - Robert Bona
  - Yida Wang (August) 
+ - David Li
