@@ -39,4 +39,4 @@ Collaborators
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
-
+ - Angelo Soyannwo
