@@ -30,6 +30,7 @@ Getting Started for Club Members
  - Split into building, src code, and hash function
 
 Collaborators
+
  - BUHPC club
  - Carlton Knox
  - Tristan Lee
@@ -39,4 +40,4 @@ Collaborators
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
-
+ - Shamir Legaspi
