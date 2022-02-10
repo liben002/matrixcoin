@@ -30,3 +30,4 @@ Getting Started for Club Members
 
 Collaborators
  - BUHPC club
+ - Tristan Lee
