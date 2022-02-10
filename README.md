@@ -32,10 +32,14 @@ Getting Started for Club Members
 Collaborators
  - BUHPC club
  - Carlton Knox
+ - Petter Stahle
  - Tristan Lee
  - Robert Bona
+ - Jincheng Zhang
  - Yida Wang (August) 
  - Pranet Sharma
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
+ - Kelly Chen
+ - Shamir Legaspi
