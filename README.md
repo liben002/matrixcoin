@@ -34,8 +34,9 @@ Collaborators
  - Carlton Knox
  - Tristan Lee
  - Robert Bona
- - Yida Wang (August)
+ - Yida Wang (August) 
  - Pranet Sharma
  - Rishav De
+ - Mete Gumusayak 
  - Gordon Ng
  - Jincheng Zhang
