@@ -30,3 +30,5 @@ Getting Started for Club Members
 
 Collaborators
  - Example
+ - Pranet Sharma
+ - Rishav De
