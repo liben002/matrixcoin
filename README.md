@@ -33,4 +33,5 @@ Collaborators
  - BUHPC club
  - Carlton Knox
  - Tristan Lee
+ - Petter Stahle
  - Jincheng Zhang
