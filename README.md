@@ -33,6 +33,7 @@ Collaborators
 
  - BUHPC club
  - Carlton Knox
+ - Petter Stahle
  - Tristan Lee
  - Robert Bona
  - Yida Wang (August) 
