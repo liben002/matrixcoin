@@ -38,4 +38,6 @@ Collaborators
  - Yida Wang (August) 
  - Pranet Sharma
  - Rishav De
+ - Mete Gumusayak 
  - Gordon Ng
+
