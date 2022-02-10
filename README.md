@@ -41,4 +41,5 @@ Collaborators
  - Rishav De
  - Mete Gumusayak 
  - Gordon Ng
+ - Kelly Chen
  - Shamir Legaspi
