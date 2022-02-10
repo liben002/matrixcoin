@@ -38,3 +38,4 @@ Collaborators
  - Pranet Sharma
  - Rishav De
  - Gordon Ng
+ - Kelly Chen
