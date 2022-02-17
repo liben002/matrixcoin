@@ -46,4 +46,4 @@ Collaborators
  - Kelly Chen
  - Shamir Legaspi
  - Nyah Madison
- - Angelo
+ - Angelo Soyannwo
